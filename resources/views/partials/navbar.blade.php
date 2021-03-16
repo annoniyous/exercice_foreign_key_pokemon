@@ -10,11 +10,11 @@
             <a class="nav-link active" aria-current="page" href="/">Dashbord</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/">Add Pokemon</a>
+            <a class="nav-link" href="/pokemons/create">Add Pokemon</a>
           </li>
         
           <li class="nav-item">
-            <a class="nav-link" href="/">Add Type</a>
+            <a class="nav-link" href="/types/create">Add Type</a>
           </li>
         
 
